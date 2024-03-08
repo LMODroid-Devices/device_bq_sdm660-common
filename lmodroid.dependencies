@@ -1,9 +1,11 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_kernel_bq_sdm660",
     "target_path": "kernel/bq/sdm660"
   },
   {
+    "remote": "lineage",
     "repository": "android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings"
   }
